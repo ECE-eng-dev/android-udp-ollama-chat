@@ -26,4 +26,16 @@ python udp_server.py
 android-app/        → Android Jetpack Compose client  
 server/             → Python UDP server using Ollama  
 
+## Screenshots
 
+### Android Chat UI
+<img src="screenshots/chat_ui.png" width="300">
+
+### Conversation Example
+<img src="screenshots/conversation.png" width="300">
+
+### Python UDP Server
+<img src="screenshots/server_terminal.png" width="600">
+
+> ⚠️ This is my first GitHub repository.  
+> The current folder structure works but may be improved in future versions.

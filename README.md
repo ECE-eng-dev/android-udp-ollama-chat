@@ -37,5 +37,5 @@ server/             → Python UDP server using Ollama
 ### Python UDP Server
 <img src="screenshots/server_terminal.png" width="600">
 
-> ⚠️ This is my first GitHub repository.  
+> This is my first GitHub repository.  
 > The current folder structure works but may be improved in future versions.

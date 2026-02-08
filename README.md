@@ -14,7 +14,7 @@ using a Python backend and Jetpack Compose UI.
 Android App ⇄ UDP ⇄ Python Server ⇄ Ollama 
 
 ## How to Run
-Edit udpclient.kt
+Edit api.kt
 private const val PI_IP = "YOUR_SERVER_IP"
 ### 1. Start Ollama
 ```bash``` 

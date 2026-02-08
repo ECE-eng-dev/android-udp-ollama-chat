@@ -21,3 +21,9 @@ private const val PI_IP = "YOUR_SERVER_IP"
 ollama serve
 ### 2. Run UDP server
 python udp_server.py
+## Project Structure
+
+android-app/        → Android Jetpack Compose client  
+server/             → Python UDP server using Ollama  
+
+

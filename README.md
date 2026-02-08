@@ -33,6 +33,10 @@ server/             → Python UDP server using Ollama
 
 ### Conversation Example
 <img src="screenshots/conversation.png" width="300">
+> ℹ️ **Note:**  
+> The responses shown above were generated using **TinyLlama**, which is a lightweight model and may produce inaccurate or simplified answers.  
+> For better accuracy and reasoning, switch to a larger model such as **Mistral**, **Llama 3**, or other supported Ollama models.
+
 
 ### Python UDP Server
 <img src="screenshots/server_terminal.png" width="600">

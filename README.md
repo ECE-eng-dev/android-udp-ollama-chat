@@ -17,7 +17,7 @@ Android App ⇄ UDP ⇄ Python Server ⇄ Ollama
 Edit udpclient.kt
 private const val PI_IP = "YOUR_SERVER_IP"
 ### 1. Start Ollama
----bash
+```bash``` 
 ollama serve
 ### 2. Run UDP server
 python udp_server.py
